@@ -1,5 +1,5 @@
-Anomaly Detection Application
-=============================
+ADA - Anomaly Detection Application
+===================================
 
 Esse aplicativo foi desenvolvido como artefato de trabalho prático da disciplina Sistemas de Apoio a Decisão (CEA462) da Universidade Federal de Ouro Preto (UFOP).
 
